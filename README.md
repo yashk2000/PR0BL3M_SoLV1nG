@@ -1,2 +1,2 @@
-# PR0BL3M_SoLV1nG
- 
+# FOSS-amrita_Programming_Codeforces
+Ten problems from codeforces done.
