@@ -1,2 +1,1 @@
-# FOSS-amrita_Programming_Codeforces
-Ten problems from codeforces done.
+Some of the problems I have solved.
