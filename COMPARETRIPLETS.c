@@ -1,3 +1,4 @@
+//runs on online ide 
 int* compareTriplets(int a_count, int* a, int b_count, int* b, int* result_count)
 {
     *result_count=2;
