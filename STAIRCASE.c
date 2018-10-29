@@ -12,7 +12,7 @@ void staircase(int n)
                 printf(" ");
             }
             else
-            printf("#");
+            printf("#"); //creating staircase pattern
 
         }
         ++c;
