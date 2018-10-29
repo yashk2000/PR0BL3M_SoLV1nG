@@ -9,9 +9,8 @@
 char* readline();
 char** split_string(char*);
 
-/*
- * Complete the simpleArraySum function below.
- */
+
+  
 int simpleArraySum(int ar_count, int* ar)
 {
     int sum=0;
